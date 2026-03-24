@@ -1,0 +1,1 @@
+Eu fiz esse physicsbody escrito em Lua para o framework Love2D. Eu comecei com uma arquivo de teste de colisão AABB que eu nunca tinha feito antes. Foi feito depois de muita conversa com o Chatgpt.
